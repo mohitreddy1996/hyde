@@ -1,0 +1,17 @@
+---
+layout: post
+---
+After finishing college, I have lots of free time till I join Google. So I have decided to explore and strengthen my knowledge of Distributed Systems. I am currently reading the following books:
+
+1. [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) - Completed this book. The book is very well structured. Though the concepts are not described in depth, the author has mentioned the references/papers for them which can be referred to get the complete understanding of the concepts. I am yet to go through the references for CRDTs and CALM theorem.
+2. [Introduction to Reliable and Secure Distributed Programming](http://www.distributedprogramming.net/) - Completed first 4 chapters. Planning to implement the algorithms mentioned in the book for better understanding. Github repository of the implementation: [link](https://github.com/mohitreddy1996/distributed-programming-abstractions).
+3. [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - Completed couple of chapters. I have a hard copy of this book. This book maintains a very good balance between theory, applications and design of distributed systems. So I will definitely try to finish reading this book.
+4. Twitter, Reddit, HighScalability.com - I check Twitter 3-4 times daily, I follow people/pages who tweet mostly about topics related to Computer Science (mainly Distributed Systems, Machine Learning) and via this, I get the latest news, updates and research papers in those fields. I read posts from 'All Time Favorites', 'Real Life Architectures' in highscalability.com. Sadly the author has "Gone fishing", so there are no new posts lately.
+
+### Yet to be started/read later
+1. [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - Yet to be started. The contents of this book looks interesting and I can't wait to start reading it! Given I already have a lot on my plate, I will start it as soon as I am done with *Introduction to Reliable and Secure Distributed Programming*.
+2. [Kubernetes: Up and Running: Dive Into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677) - Kubernetes is a container-orchestration system for automatic deployment, scalable and management of containized applications. It is currently the big thing in open source community and development (or deployment) of distributed systems.
+3. [Programming Distributed Computing Systems, Foundational Approach](http://www.amazon.com/Programming-Distributed-Computing-Systems-Foundational/dp/0262018985) - Completed first 2 chapters. Next few chapters include Pi Calculus, Actors, Join Calculus and other models of computation. I highly doubt whether I will be reading this book further, as this primarily concentrates of models of computation and distributed programming languages, which are currently not my priority. But I will surely be reading this in the near future.
+
+
+Also working on my personal site (Which is this!). Source code [here](https://github.com/mohitreddy1996/mohitreddy1996.github.io) and progress document [here](https://docs.google.com/document/d/15xY8VGBkMjyM0YT58CmEbTTHYDcTQ6wk4AI777X3TbQ/edit?usp=sharing).
