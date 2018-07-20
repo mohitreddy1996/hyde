@@ -15,7 +15,7 @@ title: Experiences
 
     <span class="post-date">{{ project.date | date_to_string }}</span>
 
-    <img src="{{ project.image_src }}">
+    <img src="{{ site.url }}/{{ project.image_src }}">
 
     {{ project.short_desc }}
 
