@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'Mohit Reddy'
 tagline:          ''
-description:      '- Programmer, Night Owl.<br>- Future Employee @Google, Cloud Infrastructure, Warsaw.<br>- Summer 2017 (May - August) Intern @Google, Search Infrastructure, Zurich.<br>'
+description:      '- Programmer, Night Owl.<br>- Current: SWE @Google Brain Frameworks and Infrastructure team.<br>- Past: SWE @GCE Control Plane Infrastructure team.<br>- Summer 2017 (May - August) Intern @Google, Search Infrastructure, Zurich.<br>'
 url:              https://mohitreddy1996.github.io
 baseurl:          /
 
@@ -17,7 +17,7 @@ author:
   url:            'https://github.com/mohitreddy1996'
 
 paginate:         5
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
